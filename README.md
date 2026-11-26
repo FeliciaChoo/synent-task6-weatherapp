@@ -1,4 +1,4 @@
-# synent-task6-weatherapp-chooenyi
+# synent-task6-weatherapp
 Real-time CLI/Web Weather App using Python and OpenWeatherMap API
 # Task 6: Real-Time Weather App (API Integration)
 
